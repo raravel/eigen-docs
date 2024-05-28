@@ -1,0 +1,7 @@
+<map id="Eigen::DenseCoeffsBase&lt; Derived, DirectAccessors &gt;" name="Eigen::DenseCoeffsBase&lt; Derived, DirectAccessors &gt;">
+<area shape="rect" id="Node000001" title="Base class providing direct read&#45;only coefficient access to matrices and arrays." alt="" coords="17,587,203,827"/>
+<area shape="rect" id="Node000002" href="$classEigen_1_1DenseCoeffsBase_3_01Derived_00_01ReadOnlyAccessors_01_4.html" title="Base class providing read&#45;only coefficient access to matrices and arrays." alt="" coords="5,199,215,539"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,554,113,587,107,587,107,554"/>
+<area shape="rect" id="Node000003" href="$structEigen_1_1EigenBase.html" title=" " alt="" coords="17,5,203,151"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="113,166,113,199,107,199,107,166"/>
+</map>

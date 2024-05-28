@@ -1,0 +1,5 @@
+<map id="Eigen::DiagonalPreconditioner&lt; Scalar_ &gt;" name="Eigen::DiagonalPreconditioner&lt; Scalar_ &gt;">
+<area shape="rect" id="Node000001" title="A preconditioner based on the digonal entries." alt="" coords="5,5,193,85"/>
+<area shape="rect" id="Node000002" href="$classEigen_1_1LeastSquareDiagonalPreconditioner.html" title="Jacobi preconditioner for LeastSquaresConjugateGradient." alt="" coords="11,133,188,213"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,101,102,134,97,134,97,101"/>
+</map>

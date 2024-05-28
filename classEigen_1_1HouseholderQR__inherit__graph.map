@@ -1,0 +1,7 @@
+<map id="Eigen::HouseholderQR&lt; MatrixType_ &gt;" name="Eigen::HouseholderQR&lt; MatrixType_ &gt;">
+<area shape="rect" id="Node000001" title="Householder QR decomposition of a matrix." alt="" coords="41,441,187,761"/>
+<area shape="rect" id="Node000002" href="$classEigen_1_1SolverBase.html" title=" " alt="" coords="5,213,223,393"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,409,117,441,111,441,111,409"/>
+<area shape="rect" id="Node000003" href="$structEigen_1_1EigenBase.html" title=" " alt="" coords="13,5,215,165"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="117,180,117,213,111,213,111,180"/>
+</map>

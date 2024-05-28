@@ -1,0 +1,13 @@
+<map id="Eigen::Ref&lt; SparseMatrixType, Options &gt;" name="Eigen::Ref&lt; SparseMatrixType, Options &gt;">
+<area shape="rect" id="Node000001" title="A sparse matrix expression referencing an existing sparse expression." alt="" coords="28,1511,192,1591"/>
+<area shape="rect" id="Node000002" href="$classEigen_1_1SparseMapBase_3_01Derived_00_01WriteAccessors_01_4.html" title="Common base class for writable Map and Ref instance of sparse matrix and vector." alt="" coords="19,1203,201,1463"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,1477,113,1511,107,1511,107,1477"/>
+<area shape="rect" id="Node000003" href="$classEigen_1_1SparseMapBase_3_01Derived_00_01ReadOnlyAccessors_01_4.html" title="Common base class for Map and Ref instance of sparse matrix and vector." alt="" coords="5,855,215,1155"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="113,1170,113,1203,107,1203,107,1170"/>
+<area shape="rect" id="Node000004" href="$classEigen_1_1SparseCompressedBase.html" title="Common base class for sparse [compressed]&#45;{row|column}&#45;storage format." alt="" coords="11,507,209,807"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="113,822,113,855,107,855,107,822"/>
+<area shape="rect" id="Node000005" href="$classEigen_1_1SparseMatrixBase.html" title="Base class of any sparse matrices or sparse expressions." alt="" coords="29,199,191,459"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="113,474,113,507,107,507,107,474"/>
+<area shape="rect" id="Node000006" href="$structEigen_1_1EigenBase.html" title=" " alt="" coords="17,5,203,151"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="113,165,113,199,107,199,107,165"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Eigen::SimplicialNonHermitianLDLT&lt; MatrixType_, UpLo_, Ordering_ &gt;" name="Eigen::SimplicialNonHermitianLDLT&lt; MatrixType_, UpLo_, Ordering_ &gt;">
+<area shape="rect" id="Node000001" title="A direct sparse LDLT Cholesky factorizations without square root, for symmetric non&#45;hermitian matrice..." alt="" coords="20,431,220,685"/>
+<area shape="rect" id="Node000002" href="$classEigen_1_1SimplicialCholeskyBase.html" title=" " alt="" coords="5,188,235,383"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,398,123,431,117,431,117,398"/>
+<area shape="rect" id="Node000003" href="$classEigen_1_1SparseSolverBase.html" title=" " alt="" coords="5,5,235,140"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="123,155,123,188,117,188,117,155"/>
+</map>

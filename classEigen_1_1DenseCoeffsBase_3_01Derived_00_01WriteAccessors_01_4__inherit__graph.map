@@ -1,0 +1,27 @@
+<map id="Eigen::DenseCoeffsBase&lt; Derived, WriteAccessors &gt;" name="Eigen::DenseCoeffsBase&lt; Derived, WriteAccessors &gt;">
+<area shape="rect" id="Node000001" title="Base class providing read/write coefficient access to matrices and arrays." alt="" coords="119,587,300,867"/>
+<area shape="rect" id="Node000004" href="$classEigen_1_1DenseCoeffsBase_3_01Derived_00_01DirectWriteAccessors_01_4.html" title="Base class providing direct read/write coefficient access to matrices and arrays." alt="" coords="101,915,318,1155"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="212,882,212,915,207,915,207,882"/>
+<area shape="rect" id="Node000002" href="$classEigen_1_1DenseCoeffsBase_3_01Derived_00_01ReadOnlyAccessors_01_4.html" title="Base class providing read&#45;only coefficient access to matrices and arrays." alt="" coords="105,199,314,539"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,554,212,587,207,587,207,554"/>
+<area shape="rect" id="Node000003" href="$structEigen_1_1EigenBase.html" title=" " alt="" coords="117,5,302,151"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="212,166,212,199,207,199,207,166"/>
+<area shape="rect" id="Node000005" href="$classEigen_1_1DenseBase.html" title="Base class for all dense matrices, vectors, and arrays." alt="" coords="114,1203,305,1708"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="212,1170,212,1203,207,1203,207,1170"/>
+<area shape="rect" id="Node000006" href="$classEigen_1_1ArrayBase.html" title="Base class for all 1D and 2D array, and related expressions." alt="" coords="8,1883,192,2069"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="156,1723,122,1884,117,1883,151,1722"/>
+<area shape="rect" id="Node000010" href="$classEigen_1_1MatrixBase.html" title="Base class for all dense matrices, vectors, and expressions." alt="" coords="216,1756,421,2196"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="268,1722,275,1756,270,1757,263,1723"/>
+<area shape="rect" id="Node000007" href="$structEigen_1_1doxygen_1_1dense__xpr__base__dispatcher_3_01Array_3_01Scalar___00_01Rows___00_01C5df081b4ee54e8986a904fc073609c3c.html" title=" " alt="" coords="5,2244,195,2369"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="103,2083,103,2244,97,2244,97,2083"/>
+<area shape="rect" id="Node000008" href="$classEigen_1_1PlainObjectBase.html" title=" " alt="" coords="5,2417,195,2868"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="103,2384,103,2417,97,2417,97,2384"/>
+<area shape="rect" id="Node000009" href="$classEigen_1_1Array.html" title="General&#45;purpose arrays with easy API for coefficient&#45;wise operations." alt="" coords="13,2916,187,3211"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="103,2883,103,2916,97,2916,97,2883"/>
+<area shape="rect" id="Node000011" href="$structEigen_1_1doxygen_1_1dense__xpr__base__dispatcher_3_01Matrix_3_01Scalar___00_01Rows___00_01cba7a5b6adb48dcb652fbb7bf99e6149.html" title=" " alt="" coords="224,2244,413,2369"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="321,2211,321,2244,316,2244,316,2211"/>
+<area shape="rect" id="Node000012" href="$classEigen_1_1PlainObjectBase.html" title=" " alt="" coords="224,2417,413,2868"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="321,2384,321,2417,316,2417,316,2384"/>
+<area shape="rect" id="Node000013" href="$classEigen_1_1Matrix.html" title="The matrix class, also used for vectors and row&#45;vectors." alt="" coords="232,2916,405,3211"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="321,2883,321,2916,316,2916,316,2883"/>
+</map>

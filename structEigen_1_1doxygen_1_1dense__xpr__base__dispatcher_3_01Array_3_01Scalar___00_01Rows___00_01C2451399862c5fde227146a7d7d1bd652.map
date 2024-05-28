@@ -1,0 +1,19 @@
+<map id="Eigen::doxygen::dense_xpr_base_dispatcher&lt; Array&lt; Scalar_, Rows_, Cols_, Options_, MaxRows_, MaxCols_ &gt; &gt;" name="Eigen::doxygen::dense_xpr_base_dispatcher&lt; Array&lt; Scalar_, Rows_, Cols_, Options_, MaxRows_, MaxCols_ &gt; &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="19,1989,209,2115"/>
+<area shape="rect" id="Node000008" href="$classEigen_1_1PlainObjectBase.html" title=" " alt="" coords="19,2163,209,2613"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="117,2130,117,2163,111,2163,111,2130"/>
+<area shape="rect" id="Node000002" href="$classEigen_1_1ArrayBase.html" title="Base class for all 1D and 2D array, and related expressions." alt="" coords="22,1756,206,1941"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,1956,117,1989,111,1989,111,1956"/>
+<area shape="rect" id="Node000003" href="$classEigen_1_1DenseBase.html" title="Base class for all dense matrices, vectors, and arrays." alt="" coords="19,1203,209,1708"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="117,1723,117,1756,111,1756,111,1723"/>
+<area shape="rect" id="Node000004" href="$classEigen_1_1DenseCoeffsBase_3_01Derived_00_01DirectWriteAccessors_01_4.html" title="Base class providing direct read/write coefficient access to matrices and arrays." alt="" coords="5,915,223,1155"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="117,1170,117,1203,111,1203,111,1170"/>
+<area shape="rect" id="Node000005" href="$classEigen_1_1DenseCoeffsBase_3_01Derived_00_01WriteAccessors_01_4.html" title="Base class providing read/write coefficient access to matrices and arrays." alt="" coords="23,587,205,867"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="117,882,117,915,111,915,111,882"/>
+<area shape="rect" id="Node000006" href="$classEigen_1_1DenseCoeffsBase_3_01Derived_00_01ReadOnlyAccessors_01_4.html" title="Base class providing read&#45;only coefficient access to matrices and arrays." alt="" coords="9,199,219,539"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="117,554,117,587,111,587,111,554"/>
+<area shape="rect" id="Node000007" href="$structEigen_1_1EigenBase.html" title=" " alt="" coords="21,5,207,151"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="117,166,117,199,111,199,111,166"/>
+<area shape="rect" id="Node000009" href="$classEigen_1_1Array.html" title="General&#45;purpose arrays with easy API for coefficient&#45;wise operations." alt="" coords="27,2661,201,2956"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="117,2628,117,2662,111,2662,111,2628"/>
+</map>
